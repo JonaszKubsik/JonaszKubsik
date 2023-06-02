@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonaszKubsik
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me jonaszkubsik@zsge.eu
+- 📫 How to reach me jonasz.kub@gmail.com
 
 <!---
 JonaszKubsik/JonaszKubsik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
