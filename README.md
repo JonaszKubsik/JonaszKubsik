@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonaszKubsik
-- 👀 I’m interested in basketball
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in run and coding
+- 🌱 I’m currently studing Electromobility
 - 📫 How to reach me jonasz.kub@gmail.com
 
 <!---
