@@ -2,7 +2,7 @@
 - 👀 I’m interested in run and coding
 - 🌱 I’m studying Electromobility at Wrocław University of Science and Technology
 - 📫 How to reach me jonasz.kub@gmail.com
-- 👩🏻‍💻 Currently learning about Arduino and trying to create drone project
+- 👩🏻‍💻 Currently working on an electric go-kart project
 
 <!---
 JonaszKubsik/JonaszKubsik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
